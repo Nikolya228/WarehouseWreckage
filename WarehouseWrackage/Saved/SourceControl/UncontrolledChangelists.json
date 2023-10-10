@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"A:/UE_Project_Git/WarehouseWreckage/WarehouseWrackage/Content/StarterContent/Audio/Collapse01.uasset",
+				"A:/UE_Project_Git/WarehouseWreckage/WarehouseWrackage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"A:/UE_Project_Git/WarehouseWreckage/WarehouseWrackage/Content/StarterContent/BP_Projectile.uasset",
+				"A:/UE_Project_Git/WarehouseWreckage/WarehouseWrackage/Content/MainWarehouse.umap",
+				"A:/UE_Project_Git/WarehouseWreckage/WarehouseWrackage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"A:/UE_Project_Git/WarehouseWreckage/WarehouseWrackage/Content/IndustryPropsPack6/Meshes/SM_Barrel03.uasset",
+				"A:/UE_Project_Git/WarehouseWreckage/WarehouseWrackage/Content/BP_Barrel.uasset",
+				"A:/UE_Project_Git/WarehouseWreckage/WarehouseWrackage/Content/BP_Projectile.uasset"
+			]
+		}
+	]
+}
